@@ -1,0 +1,43 @@
+Recursos gratuitos para mujeres en tecnología — Comunidades, becas y plataformas
+
+Aprender tecnología no tiene que ser un camino solitario. Existe un ecosistema amplio de recursos diseñados específicamente para apoyar a mujeres en su camino hacia la tecnología, desde comunidades de apoyo hasta becas y plataformas de aprendizaje gratuitas.
+
+Comunidades y organizaciones
+
+Girls Who Code es una organización fundada por Reshma Saujani que ofrece programas de verano, clubes escolares y una comunidad de más de 500,000 mujeres en tecnología. Su misión es cerrar la brecha de género en ciencia de la computación.
+
+Women Who Code es una red global con capítulos en más de 60 países. Ofrece eventos, talleres, recursos de aprendizaje y networking para mujeres en tecnología. Su comunidad es diversa e inclusiva, con miembros desde estudiantes hasta CTOs.
+
+PyLadies es una comunidad internacional de mujeres que programan en Python. Tiene capítulos en docenas de ciudades latinoamericanas, incluyendo varias en Colombia, y organiza talleres, meetups y conferencias.
+
+Rails Girls y Django Girls son organizaciones que organizan talleres gratuitos de programación web para mujeres en todo el mundo. Los talleres son intensivos de un fin de semana y van desde instalación del entorno hasta desplegar una aplicación web.
+
+Laboratoria es una organización latinoamericana que ofrece bootcamps de programación para mujeres con bajos ingresos y las conecta con empresas que buscan talento diverso. Ha formado a miles de desarrolladoras en América Latina.
+
+Plataformas de aprendizaje gratuitas
+
+freeCodeCamp ofrece un currículo completo y gratuito de desarrollo web, con más de 3,000 horas de contenido y certificaciones reconocidas por la industria. Todo su contenido es gratuito y open source.
+
+The Odin Project es un currículo de desarrollo web gratuito y de código abierto, muy bien estructurado y con una comunidad activa en Discord donde puedes hacer preguntas y obtener ayuda.
+
+Khan Academy tiene cursos gratuitos de matemáticas, estadística y programación básica. Es especialmente útil para reforzar fundamentos matemáticos antes de entrar a ciencia de datos o machine learning.
+
+Kaggle Learn ofrece cursos cortos y gratuitos de ciencia de datos, machine learning y Python, con ejercicios prácticos en notebooks interactivos. Es un excelente complemento para aprendizaje aplicado.
+
+CS50 de Harvard es uno de los cursos de introducción a la ciencia de la computación más populares del mundo. Es completamente gratuito en edX y cubre desde conceptos fundamentales hasta desarrollo web y aplicaciones móviles.
+
+Becas y programas especiales
+
+Google Women Techmakers ofrece becas, recursos y una comunidad global para mujeres en tecnología. El programa Generation Google Scholarship otorga becas a mujeres que estudian carreras relacionadas con la computación.
+
+Microsoft TEALS conecta voluntarios de la industria tecnológica con escuelas para enseñar ciencias de la computación. También tiene programas específicos para estudiantes mujeres y de grupos subrepresentados.
+
+Outreachy ofrece pasantías pagadas en proyectos de código abierto, con un enfoque especial en personas de grupos subrepresentados en tecnología, incluyendo mujeres. Las pasantías duran tres meses y ofrecen una estipendio de $7,000 USD.
+
+Consejos para aprovechar estos recursos
+
+No trates de estar en todos los lugares a la vez. Elige una o dos comunidades donde puedas participar activamente y construir relaciones reales. La calidad de las conexiones importa más que la cantidad.
+
+Participa activamente, no solo consumas. Haz preguntas, ofrece ayuda cuando puedas, comparte lo que estás aprendiendo. Las comunidades crecen con la participación de todas.
+
+Busca una mentora dentro de estas comunidades. Muchas mujeres con más experiencia están dispuestas a guiar a quienes están comenzando. No tengas miedo de pedir orientación.

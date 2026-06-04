@@ -1,0 +1,43 @@
+Roadmap para aprender desarrollo web frontend — Guía completa
+
+El desarrollo web frontend es una de las áreas más accesibles y demandadas en tecnología. Esta guía presenta un camino estructurado para aprender desde cero hasta un nivel profesional, con recursos gratuitos y estimaciones de tiempo realistas.
+
+Fase 1 — Fundamentos web (4-6 semanas)
+
+HTML es el lenguaje de estructura de las páginas web. Aprende los elementos básicos: encabezados, párrafos, listas, enlaces, imágenes, formularios y tablas. Practica construyendo páginas estáticas sencillas. Recursos gratuitos: freeCodeCamp, MDN Web Docs.
+
+CSS es el lenguaje de estilos que hace que las páginas se vean bien. Aprende selectores, colores, tipografía, el modelo de caja, flexbox y grid. Flexbox y grid son fundamentales para crear layouts modernos y responsivos. Practica replicando diseños que admires.
+
+JavaScript básico es el lenguaje de programación del navegador. Aprende variables, tipos de datos, funciones, condicionales, ciclos y manipulación del DOM. El DOM es la interfaz que permite a JavaScript interactuar con los elementos HTML de una página.
+
+Fase 2 — JavaScript intermedio (4-6 semanas)
+
+Profundiza en JavaScript con conceptos como funciones de flecha, destructuring, spread operator, promesas, async/await, y el manejo de errores. Aprende a consumir APIs REST usando fetch o axios. Practica haciendo pequeñas aplicaciones: un clima, una lista de tareas, una galería de imágenes.
+
+Aprende Git y GitHub. El control de versiones es fundamental en cualquier trabajo de desarrollo. Crea una cuenta en GitHub y sube todos tus proyectos de práctica. Un perfil activo en GitHub es tu mejor portafolio.
+
+Fase 3 — Framework moderno: React (6-8 semanas)
+
+React es la librería de JavaScript más demandada en el mercado laboral. Aprende componentes, props, estado (useState), efectos (useEffect), y el manejo de formularios. Luego avanza a React Router para crear aplicaciones de múltiples páginas y Context API o Redux para el manejo de estado global.
+
+Complementa con TypeScript, que añade tipado estático a JavaScript y es cada vez más estándar en proyectos profesionales.
+
+Fase 4 — Herramientas profesionales (2-3 semanas)
+
+Aprende a usar Vite o Create React App para inicializar proyectos. Aprende sobre CSS moderno con Tailwind CSS, una librería de utilidades que acelera enormemente el desarrollo de interfaces. Familiarízate con el testing básico usando Jest y React Testing Library.
+
+Fase 5 — Proyecto personal completo
+
+Construye una aplicación completa de principio a fin que demuestre todas tus habilidades: autenticación de usuarios, consumo de una API real, interfaz responsiva, y deploy en Netlify o Vercel (ambos gratuitos).
+
+Consejos para el camino
+
+No intentes aprender todo a la vez. La profundidad es más valiosa que la amplitud al principio. Escoge un camino y síguelo hasta completarlo antes de explorar otras tecnologías.
+
+La práctica es más importante que la teoría. Por cada hora que ves un tutorial, deberías pasar dos horas codificando por tu cuenta.
+
+Los errores son tu mejor maestro. Cuando algo no funciona, no te rindas ni copies la solución inmediatamente. Intenta entender qué está fallando. Esa lucha es donde ocurre el aprendizaje real.
+
+Comunidad. Únete a grupos de mujeres en tecnología, asiste a meetups virtuales o presenciales, participa en foros. El networking y el apoyo de pares hacen el camino mucho más llevadero.
+
+El mercado laboral del frontend es amplio y bien remunerado. Con seis a doce meses de práctica consistente, es completamente posible conseguir un primer trabajo como desarrolladora junior.

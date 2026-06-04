@@ -1,0 +1,41 @@
+Roadmap para aprender desarrollo backend — Guía práctica
+
+El desarrollo backend es la capa invisible que hace funcionar las aplicaciones: servidores, bases de datos, APIs y la lógica de negocio. Es un campo con enorme demanda laboral y excelentes oportunidades de crecimiento. Esta guía presenta un camino estructurado para aprenderlo.
+
+Fase 1 — Fundamentos de programación (4-6 semanas)
+
+Elige un lenguaje de backend. Python es la opción más recomendada para principiantes por su sintaxis clara y su enorme ecosistema. Node.js (JavaScript en el servidor) es excelente si ya tienes base en frontend. Java y Go son opciones para quienes buscan rendimiento en sistemas grandes.
+
+Aprende los fundamentos sólidos: estructuras de datos (listas, diccionarios, conjuntos), algoritmos básicos (búsqueda, ordenamiento), programación orientada a objetos, y manejo de errores. Estos conceptos son independientes del lenguaje y te seguirán en toda tu carrera.
+
+Fase 2 — APIs y servidores web (4-6 semanas)
+
+Aprende a construir APIs REST con un framework web. Para Python: FastAPI o Django. Para Node.js: Express. Entiende los métodos HTTP (GET, POST, PUT, DELETE), los códigos de estado, y cómo estructurar respuestas JSON.
+
+Aprende sobre autenticación y autorización: cómo proteger endpoints, cómo funciona JWT (JSON Web Tokens), y los conceptos básicos de OAuth. La seguridad es fundamental en backend y es una responsabilidad que no se puede ignorar.
+
+Fase 3 — Bases de datos (4-6 semanas)
+
+Aprende SQL con PostgreSQL o MySQL. Las bases de datos relacionales son el fundamento del almacenamiento de datos en la mayoría de aplicaciones empresariales. Aprende a diseñar esquemas, escribir consultas complejas, y usar índices para optimizar rendimiento.
+
+Complementa con una base de datos NoSQL como MongoDB o Redis. NoSQL es útil para ciertos casos de uso específicos como caché, sesiones, o datos con estructura flexible.
+
+Aprende sobre ORMs (Object-Relational Mappers) como SQLAlchemy para Python o Sequelize para Node.js. Los ORMs te permiten interactuar con bases de datos usando el lenguaje de programación en lugar de SQL puro, lo que agiliza el desarrollo.
+
+Fase 4 — Herramientas del ecosistema (3-4 semanas)
+
+Docker es fundamental en el desarrollo backend moderno. Permite empaquetar una aplicación y todas sus dependencias en un contenedor que funciona igual en cualquier entorno. Aprende a crear Dockerfiles y usar Docker Compose.
+
+Aprende sobre variables de entorno y gestión de secretos. Nunca guardes contraseñas o API keys en el código; siempre usa variables de entorno o servicios de gestión de secretos.
+
+Git y GitHub ya son esenciales. Aprende flujos de trabajo como GitFlow o trunk-based development, y cómo hacer code reviews.
+
+Fase 5 — Deploy y producción
+
+Aprende a desplegar aplicaciones en la nube. Plataformas como Railway, Render o Fly.io ofrecen tiers gratuitos perfectos para proyectos de práctica. AWS, Google Cloud y Azure son los líderes del mercado empresarial.
+
+Aprende conceptos básicos de CI/CD (Integración y Despliegue Continuos) con GitHub Actions. Automatizar las pruebas y el despliegue es una práctica estándar en equipos profesionales.
+
+El mercado laboral del backend
+
+Las desarrolladoras backend están entre las profesionales más buscadas en la industria. Especialidades como APIs, microservicios, bases de datos y seguridad tienen demanda creciente. Con un año de práctica consistente y proyectos reales en el portafolio, conseguir el primer trabajo como desarrolladora backend junior es completamente alcanzable.

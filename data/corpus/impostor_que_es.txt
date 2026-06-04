@@ -1,0 +1,23 @@
+El síndrome del impostor en tecnología — Qué es y por qué es tan común
+
+El síndrome del impostor es un patrón psicológico en el que una persona duda de sus propios logros y tiene un miedo persistente a ser descubierta como un "fraude", a pesar de tener evidencia objetiva de su competencia y éxito. El término fue acuñado en 1978 por las psicólogas Pauline Clance y Suzanne Imes, quienes lo identificaron inicialmente en mujeres de alto rendimiento académico.
+
+En el mundo de la tecnología y el desarrollo de software, el síndrome del impostor es extraordinariamente común. Estudios sugieren que hasta el 70% de las personas han experimentado sentimientos de impostorismo en algún momento de sus vidas, pero es especialmente prevalente en la industria tecnológica, donde el ritmo de cambio es rápido y siempre hay algo nuevo que aprender.
+
+Las manifestaciones más comunes del síndrome del impostor en tecnología incluyen:
+
+Atribuir el éxito a la suerte. Cuando un proyecto sale bien, la persona con síndrome del impostor piensa "tuve suerte" o "me ayudaron mucho", en lugar de reconocer su propia contribución. Cuando algo sale mal, en cambio, se echa toda la culpa.
+
+El miedo a ser "descubierto". La sensación constante de que en cualquier momento alguien se dará cuenta de que "no sabes realmente lo que haces" y te expondrá frente a todo el equipo.
+
+La comparación constante con otros. Navegar por GitHub o LinkedIn y sentir que todos los demás son más brillantes, más productivos, más avanzados. Ver el código de otros y pensar "yo nunca podría escribir algo así".
+
+El perfeccionismo paralizante. No publicar un proyecto, no hacer una pregunta en el trabajo, no postularse a una posición superior porque "no estoy completamente lista todavía" o "necesito aprender un poco más antes".
+
+El síndrome del impostor tiene raíces complejas. En parte es una respuesta adaptativa: en ambientes altamente competitivos, cierta humildad y autocrítica pueden ser útiles. El problema surge cuando estos sentimientos son desproporcionados a la realidad y empiezan a limitar el crecimiento profesional y el bienestar personal.
+
+Para las mujeres en tecnología, el síndrome del impostor tiene una capa adicional de complejidad. Trabajar en un ambiente donde eres minoría, donde los referentes históricos son principalmente hombres, y donde a veces enfrentas microagresiones o dudas sobre tu competencia, puede amplificar enormemente estos sentimientos.
+
+Reconocer el síndrome del impostor es el primer paso para superarlo. Saber que no estás sola, que hasta las personas más exitosas en tecnología lo experimentan, puede ser enormemente liberador. El síndrome del impostor no es un reflejo de tu verdadera capacidad. Es un patrón de pensamiento que puede cambiarse con práctica, apoyo y las herramientas adecuadas.
+
+Lo importante es entender que sentirte como una impostora no significa que seas una impostora. Significa que eres humana, que te importa tu trabajo y que tienes estándares altos. Eso no es una debilidad. Con el enfoque correcto, puede convertirse en una fortaleza.

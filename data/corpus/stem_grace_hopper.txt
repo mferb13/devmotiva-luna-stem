@@ -1,0 +1,19 @@
+Grace Hopper — La almirante que revolucionó la programación
+
+Grace Brewster Murray Hopper nació el 9 de diciembre de 1906 en la ciudad de Nueva York. Matemática, científica de la computación y oficial de la Marina de los Estados Unidos, es una de las figuras más influyentes en la historia de la informática. Sus contribuciones cambiaron para siempre la forma en que los humanos interactúan con las computadoras.
+
+Grace mostró desde niña una curiosidad desbordante por entender cómo funcionaban las cosas. A los siete años desarmó todos los despertadores de la casa para descubrir su mecanismo. Esta curiosidad la llevó a estudiar matemáticas y física en el Vassar College, donde se graduó en 1928, y luego obtuvo su doctorado en matemáticas en Yale en 1934, convirtiéndose en una de las pocas mujeres de su época en lograrlo.
+
+Cuando Estados Unidos entró en la Segunda Guerra Mundial, Grace tenía 34 años y era profesora en Vassar. Decidió enlistarse en la Marina, donde fue asignada al Bureau of Ships Computation Project en Harvard. Allí trabajó con el Mark I, una de las primeras computadoras electromecánicas, bajo la dirección del comandante Howard Aiken.
+
+Una de las contribuciones más famosas de Grace fue el desarrollo del primer compilador, un programa que traduce instrucciones escritas en lenguaje humano a código que las computadoras pueden entender. Antes de su trabajo, programar requería escribir en código binario, un proceso extremadamente tedioso y propenso a errores. Grace creía firmemente que las computadoras podían entender palabras además de números, idea que muchos de sus colegas consideraban imposible.
+
+En 1959, Grace lideró el equipo que desarrolló COBOL (Common Business-Oriented Language), uno de los primeros lenguajes de programación de alto nivel y el primero diseñado específicamente para aplicaciones de negocios. COBOL sigue siendo utilizado hoy en día en sistemas bancarios y gubernamentales de todo el mundo.
+
+Grace también es famosa por popularizar el término "bug" (error informático). Según la historia, en 1947 su equipo encontró una polilla real atrapada en los relés del Mark II, causando un mal funcionamiento. Grace pegó el insecto en el registro de operaciones con la nota "First actual case of bug being found." Aunque el término ya existía en ingeniería, Grace lo popularizó en el contexto de la computación.
+
+A lo largo de su carrera, Grace recibió numerosos reconocimientos. Fue la primera persona en recibir el título de "Computer Science Man of the Year" del Data Processing Management Association, ignorando humorísticamente el género del título. En 1986 se retiró de la Marina con el rango de contralmirante, siendo la oficial más veterana en servicio activo.
+
+Grace Hopper murió el 1 de enero de 1992 a los 85 años. Su legado vive en cada línea de código escrita en lenguaje de alto nivel, en cada compilador que convierte palabras en instrucciones, y en cada mujer que encuentra en la programación un campo donde puede brillar.
+
+Su frase más célebre resume su filosofía de vida: "Es más fácil pedir perdón que pedir permiso." Una lección que sigue inspirando a programadoras de todo el mundo a atreverse a innovar sin esperar validación.

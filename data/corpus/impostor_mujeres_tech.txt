@@ -1,0 +1,35 @@
+El síndrome del impostor en mujeres desarrolladoras — Una experiencia específica
+
+Las mujeres en tecnología enfrentan el síndrome del impostor con una intensidad particular que es importante reconocer y abordar. No se trata solo de inseguridad individual; está profundamente entrelazado con estructuras sociales, sesgos sistémicos y la experiencia de ser minoría en un campo dominado históricamente por hombres.
+
+Ser la única mujer en la sala
+
+Una de las experiencias más comunes y desgastantes para las mujeres en tecnología es ser frecuentemente la única mujer, o una de las pocas, en reuniones, equipos o eventos del sector. Esta situación, que los investigadores llaman "solo status", amplifica la autoconsciencia y el miedo al error.
+
+Cuando eres la única representante de tu género en un espacio, inconscientemente sientes que cualquier error tuyo no solo te afecta a ti, sino que "confirma" estereotipos sobre las mujeres en tecnología. Esta presión adicional es real y tiene un impacto medible en el rendimiento y el bienestar.
+
+Las microagresiones acumuladas
+
+Las microagresiones son comentarios o comportamientos que, tomados individualmente, pueden parecer menores, pero que acumulados tienen un efecto erosionador en la confianza. Ejemplos comunes en el mundo tech incluyen:
+
+Que le expliquen a una mujer algo que ella ya sabe perfectamente (el fenómeno conocido como "mansplaining"). Que sus ideas en una reunión sean ignoradas y luego repetidas por un hombre y recibidas con entusiasmo. Que se asuma que el trabajo técnico lo hizo alguien más y que ella fue responsable de la parte "blanda" del proyecto. Que se le hagan más preguntas técnicas de validación que a sus colegas hombres.
+
+Estas experiencias, aunque a veces sutiles, envían un mensaje repetido de "no perteneces aquí" que alimenta directamente el síndrome del impostor.
+
+El problema de la representación
+
+Cuando todos los referentes históricos y los héroes de la industria tecnológica son hombres, es más difícil verse a una misma como alguien que naturalmente pertenece a ese mundo. La representación importa no porque sea un capricho, sino porque el cerebro humano aprende por modelaje: necesitamos ver a alguien parecido a nosotras para creer que nosotras también podemos lograrlo.
+
+Por eso es tan importante conocer las historias de Ada Lovelace, Grace Hopper, Katherine Johnson y tantas otras. No son solo anécdotas históricas; son evidencia concreta de que las mujeres han estado construyendo la tecnología desde el principio, aunque la historia oficial las haya invisibilizado.
+
+La carga de ser "embajadora"
+
+Muchas mujeres en tecnología sienten la presión de representar a "todas las mujeres", de ser perfectas porque si cometen un error dará argumentos a quienes dudan de las capacidades femeninas. Esta carga es injusta e invisible, pero es real.
+
+Un hombre en tecnología puede cometer un error y ese error le pertenece solo a él. Una mujer comete el mismo error y a veces siente que está poniendo en duda las capacidades de todas las mujeres. Esta asimetría es agotadora.
+
+Romper el ciclo
+
+Reconocer que el síndrome del impostor en mujeres desarrolladoras tiene estas capas adicionales es fundamental para abordarlo adecuadamente. No es suficiente con técnicas individuales de autoayuda; también se necesitan cambios estructurales en los equipos y las empresas.
+
+Sin embargo, a nivel personal, hay algo poderoso en saber que lo que sientes no es una falla tuya. Es una respuesta comprensible a un entorno que históricamente no fue diseñado para ti. Y aun así, estás aquí. Eso, en sí mismo, es un acto de valentía que merece reconocimiento.

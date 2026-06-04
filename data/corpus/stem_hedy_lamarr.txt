@@ -1,0 +1,19 @@
+Hedy Lamarr — La actriz que inventó el WiFi
+
+Hedy Lamarr nació el 9 de noviembre de 1914 en Viena, Austria, con el nombre de Hedwig Eva Maria Kiesler. Actriz de Hollywood considerada una de las mujeres más hermosas de su época, Hedy era también una inventora brillante cuyo trabajo sentó las bases tecnológicas del WiFi, el Bluetooth y las comunicaciones móviles modernas. Su historia es un recordatorio de que la inteligencia puede existir en las formas más inesperadas.
+
+Desde niña, Hedy mostró una mente curiosa e inventora. Su padre, director de un banco pero apasionado de la tecnología, le explicaba cómo funcionaban las máquinas durante largos paseos. Esta curiosidad la acompañaría toda su vida, incluso durante su carrera como actriz.
+
+A los 18 años, Hedy fue descubierta por el director Max Reinhardt y comenzó su carrera actoral en Europa. Se casó con Fritz Mandl, un poderoso fabricante de armas austriaco que tenía vínculos con el régimen nazi. Durante los años que estuvo con él, Hedy asistió a innumerables reuniones técnicas y de negocios, donde absorbió silenciosamente conocimientos sobre tecnología militar, especialmente sobre sistemas de comunicación y torpedos teledirigidos.
+
+En 1937, Hedy escapó de su matrimonio disfrazada de sirvienta y huyó a Londres, donde fue descubierta por Louis B. Mayer de MGM y contratada para ir a Hollywood. Allí se convirtió en estrella, apareciendo en películas junto a Clark Gable y Spencer Tracy.
+
+Pero su mente nunca dejó de inventar. Durante la Segunda Guerra Mundial, Hedy se preocupó por el esfuerzo bélico de los Aliados. Sabía, por lo que había aprendido junto a su ex marido, que los torpedos teledirigidos por radio eran vulnerables porque el enemigo podía interferir la señal y desviarlos.
+
+Junto al compositor George Antheil, Hedy desarrolló un sistema de comunicación de "espectro ensanchado con salto de frecuencia". La idea era que el transmisor y el receptor cambiaran simultáneamente de frecuencia de radio siguiendo un patrón aleatorio, como un pianista saltando de tecla en tecla. De esta forma, el enemigo no podía interferir la señal porque no sabía en qué frecuencia estaría en cada momento.
+
+En 1942, Hedy y George patentaron su invención. Sin embargo, la Marina de los Estados Unidos ignoró su propuesta, en parte porque no podían creer que una actriz de Hollywood hubiera desarrollado tecnología militar viable. La patente expiró sin que Hedy recibiera compensación alguna.
+
+Décadas después, cuando los ingenieros de comunicaciones comenzaron a desarrollar el WiFi, el Bluetooth y los sistemas de comunicación por espectro ensanchado, descubrieron que el principio fundamental había sido patentado por Hedy Lamarr en 1942. Para entonces era demasiado tarde para compensarla económicamente, pero en 1997 recibió el Electronic Frontier Foundation Pioneer Award, reconociendo finalmente su contribución.
+
+Hedy Lamarr murió el 19 de enero de 2000, a los 85 años. Su historia inspira porque demuestra que la creatividad y la inteligencia no tienen un aspecto determinado, y que las mujeres han contribuido a la tecnología desde siempre, muchas veces sin recibir el crédito merecido.

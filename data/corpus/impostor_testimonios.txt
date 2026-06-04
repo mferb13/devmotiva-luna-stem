@@ -1,0 +1,35 @@
+Testimonios — Mujeres desarrolladoras y el síndrome del impostor
+
+Las siguientes historias representan experiencias comunes de mujeres en tecnología. Aunque los nombres son ficticios, los sentimientos y situaciones descritos son reales y compartidos por miles de desarrolladoras en todo el mundo.
+
+Laura, desarrolladora frontend con 3 años de experiencia
+
+"Durante mis primeros dos años como desarrolladora, estaba convencida de que en cualquier momento me iban a descubrir. Cada vez que no sabía algo en una reunión, sentía que confirmaba que no merecía estar ahí. Lo irónico es que mi manager me decía constantemente que mi trabajo era excelente.
+
+El cambio llegó cuando en un meetup de PyLadies una desarrolladora senior con diez años de experiencia dijo que todavía googleaba cómo hacer loops en Python a veces. Me di cuenta de que el conocimiento perfecto no existe, y que buscar cosas no es señal de incompetencia, es señal de que estás resolviendo problemas reales."
+
+Valentina, ingeniera de datos que cambió de carrera a los 32 años
+
+"Venía de trabajar como contadora y decidí aprender programación. Tardé casi un año en hacer el cambio porque pensaba que era demasiado tarde, que no tenía el 'cerebro' para programar, que todos los demás habían empezado desde niños.
+
+Lo que nadie me había dicho es que mi experiencia en finanzas era exactamente lo que necesitaba una empresa de fintech. Conseguí mi primer trabajo en tecnología a los 33 años y hoy, tres años después, soy líder de equipo. El síndrome del impostor no desapareció completamente, pero aprendí a reconocerlo y a no dejar que me paralice."
+
+Camila, estudiante de ingeniería de software en su último año
+
+"En mi programa, soy una de las pocas mujeres. Hay días en que siento que tengo que demostrar constantemente que merezco estar ahí, que cualquier error mío será juzgado más duramente que el mismo error de un compañero hombre.
+
+Lo que me ha ayudado es tener un grupo de estudio de mujeres donde podemos ser honestas sobre nuestras dudas sin miedo al juicio. También empecé a llevar un registro de todo lo que aprendo cada semana. Cuando veo cuánto he avanzado en un semestre, el síndrome del impostor pierde un poco de su fuerza."
+
+Daniela, desarrolladora full stack y mentora de otras mujeres en tech
+
+"Hoy soy mentora, pero hace cinco años era la persona que más necesitaba mentoría y no sabía cómo pedirla. Sentía que pedir ayuda confirmaba mis inseguridades.
+
+La lección más grande que aprendí, y que ahora trato de transmitir, es que pedir ayuda no es debilidad. Es eficiencia. Los mejores desarrolladores que conozco son los que más preguntan, porque saben que el tiempo que tardarían en resolver algo solos a veces no vale la pena cuando alguien más puede guiarte en cinco minutos."
+
+Sofía, desarrolladora móvil y creadora de contenido sobre mujeres en tech
+
+"Pasé años sin publicar código en GitHub porque sentía que mis proyectos no eran suficientemente buenos. Que alguien los vería y pensaría que era una pésima programadora.
+
+El día que publiqué mi primer proyecto, un tracker de hábitos sencillo hecho en Python, recibí un mensaje de alguien diciendo que había aprendido de mi código. Eso me cambió. Mis proyectos imperfectos podían ayudar a alguien que estaba un paso atrás de mí en el camino. Desde entonces publico todo."
+
+Estas historias comparten un patrón: el síndrome del impostor es casi universal entre mujeres en tecnología, pero no es permanente. Con comunidad, autoconciencia y práctica deliberada, se puede aprender a reconocerlo, desafiarlo, y seguir adelante a pesar de él.

@@ -1,0 +1,43 @@
+Roadmap para aprender ciencia de datos — De cero a profesional
+
+La ciencia de datos es uno de los campos más dinámicos y bien remunerados de la tecnología. Combina estadística, programación y conocimiento de dominio para extraer insights valiosos de los datos. Esta guía presenta un camino estructurado y realista para aprenderlo.
+
+Fase 1 — Fundamentos matemáticos y estadísticos (3-4 semanas)
+
+Antes de escribir una línea de código, es útil tener bases en estadística descriptiva: media, mediana, moda, desviación estándar, distribuciones. No necesitas ser experta en matemáticas para empezar, pero entender estos conceptos te ayudará a interpretar los resultados de tus análisis.
+
+Álgebra lineal básica (vectores y matrices) es importante para entender cómo funcionan los algoritmos de machine learning. Khan Academy y 3Blue1Brown en YouTube ofrecen explicaciones visuales y gratuitas excelentes.
+
+Fase 2 — Python para datos (4-6 semanas)
+
+Python es el lenguaje estándar en ciencia de datos. Aprende los fundamentos del lenguaje y luego enfócate en las librerías principales:
+
+NumPy para operaciones matemáticas con arrays y matrices. Pandas para manipulación y análisis de datos tabulares, una de las habilidades más usadas en el día a día de una científica de datos. Matplotlib y Seaborn para visualización de datos.
+
+Practica con datasets reales. Kaggle ofrece cientos de conjuntos de datos gratuitos y competiciones donde puedes aprender mientras resuelves problemas reales.
+
+Fase 3 — Machine Learning (6-8 semanas)
+
+Scikit-learn es la librería de machine learning más usada en Python. Aprende los algoritmos fundamentales: regresión lineal y logística, árboles de decisión, random forests, y clustering con K-means.
+
+Entiende conceptos clave: train/test split, overfitting y underfitting, validación cruzada, métricas de evaluación (accuracy, precision, recall, F1). Estos conceptos son fundamentales para construir modelos que funcionen bien en datos nuevos, no solo en los datos de entrenamiento.
+
+Fase 4 — Deep Learning e IA (opcional, 6-8 semanas)
+
+Si quieres especializarte en inteligencia artificial, aprende TensorFlow o PyTorch, las dos librerías principales de deep learning. Redes neuronales, redes convolucionales para imágenes, y transformers para texto son los temas más relevantes hoy.
+
+Hugging Face es una plataforma gratuita con miles de modelos pre-entrenados que puedes usar y adaptar sin necesidad de entrenar desde cero.
+
+Fase 5 — Proyecto completo y portafolio
+
+Construye un proyecto end-to-end que incluya recolección o descarga de datos, limpieza y exploración, modelado, visualización de resultados e interpretación. Publícalo en GitHub con un README claro que explique el problema, el proceso y los resultados.
+
+Kaggle, GitHub y un blog personal son las tres plataformas más importantes para mostrar tu trabajo a empleadores potenciales.
+
+Áreas de especialización
+
+Una vez tengas las bases, puedes especializarte en: análisis de datos de negocios (Business Intelligence), procesamiento de lenguaje natural (NLP), visión computacional, o MLOps (despliegue de modelos en producción).
+
+La ciencia de datos es un campo donde el aprendizaje continuo es la norma. Los modelos y herramientas evolucionan constantemente. La habilidad más importante no es conocer todas las herramientas, sino saber aprender nuevas herramientas rápidamente.
+
+Mujeres como Fernanda Viégas y Timnit Gebru han abierto caminos en visualización de datos e IA ética respectivamente, demostrando que las mujeres están definiendo el futuro de este campo.

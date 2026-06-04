@@ -1,0 +1,35 @@
+Aprender a programar siendo mujer adulta — Mitos, realidades y estrategias
+
+Una de las creencias más dañinas en el mundo de la tecnología es que para ser buena programadora hay que haber empezado de niña, o que después de cierta edad es demasiado tarde para aprender. Esta creencia es falsa, y está respaldada por décadas de historias de mujeres que aprendieron a programar en sus 20s, 30s, 40s y más, y construyeron carreras exitosas en tecnología.
+
+Desmontando el mito de la edad
+
+La programación, como cualquier habilidad cognitiva compleja, se puede aprender a cualquier edad con la metodología correcta y la práctica consistente. El cerebro adulto tiene ventajas reales sobre el cerebro infantil: mayor capacidad de abstracción, mayor persistencia, mayor motivación intrínseca y mayor habilidad para conectar conceptos nuevos con conocimiento previo.
+
+Además, muchos empleadores valoran especialmente a profesionales que vienen de otras carreras y traen perspectivas diversas al desarrollo de software. Una diseñadora que aprende a programar, una contadora que aprende ciencia de datos, una educadora que aprende desarrollo web: estas personas tienen una comprensión del dominio que los programadores puramente técnicos a menudo carecen.
+
+Cómo estructurar el aprendizaje siendo adulta
+
+El mayor desafío para las adultas que aprenden a programar no es la dificultad del material, sino la gestión del tiempo y la energía. Con responsabilidades laborales, familiares y personales, el tiempo disponible para aprender es limitado. La clave es la consistencia sobre la intensidad: 30-60 minutos diarios de práctica enfocada produce mejores resultados que maratones ocasionales de estudio.
+
+Establece un horario específico para estudiar, como si fuera una cita que no puedes cancelar. El tiempo temprano en la mañana antes de que comience el día, o el tiempo después de que los demás se duerman, funciona para muchas personas. Lo importante es que sea regular.
+
+Usa el conocimiento que ya tienes
+
+Como adulta, traes un bagaje de conocimientos y experiencias que pueden ser enormemente útiles en tecnología. Si trabajaste en salud, puedes desarrollar aplicaciones médicas. Si estuviste en educación, puedes construir plataformas de aprendizaje. Si tienes experiencia en finanzas, el mundo del fintech tiene enorme demanda.
+
+Esta intersección entre tu conocimiento previo y tus nuevas habilidades técnicas es tu ventaja competitiva única. No intentes competir con los recién egresados de ciencias de la computación en conocimiento puramente técnico. Compite en el valor único que solo tú puedes aportar.
+
+El papel de la comunidad
+
+Aprender sola es posible pero innecesariamente difícil. Busca comunidades de mujeres que aprendan programación, ya sea en línea o en tu ciudad. La posibilidad de hacer preguntas, compartir frustraciones y celebrar pequeños logros con personas que entienden el camino hace una diferencia enorme en la motivación y la persistencia.
+
+Organizaciones como Laboratoria, Django Girls y comunidades de Women Who Code en América Latina han ayudado a miles de mujeres adultas a hacer la transición a tecnología. Sus historias son un recordatorio constante de que es posible.
+
+El primer trabajo
+
+Conseguir el primer trabajo en tecnología es el obstáculo más grande, pero una vez que cruzas ese umbral, el crecimiento puede ser muy rápido. Estrategias útiles incluyen: construir un portafolio sólido en GitHub, contribuir a proyectos de código abierto, hacer proyectos para organizaciones sin fines de lucro para ganar experiencia real, y aplicar activamente en bootcamps que conecten con empleadores.
+
+No subestimes el valor de tus habilidades "blandas" maduras: capacidad de comunicación, trabajo en equipo, gestión del tiempo, y entendimiento del negocio. Estas habilidades son escasas entre desarrolladores jóvenes y muy valoradas en los equipos.
+
+Tu historia de transición, lejos de ser una debilidad, puede ser tu mayor fortaleza en entrevistas. Habla de ella con confianza.

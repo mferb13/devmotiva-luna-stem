@@ -1,0 +1,21 @@
+Ada Lovelace — La primera programadora de la historia
+
+Ada Lovelace, cuyo nombre completo era Augusta Ada King, condesa de Lovelace, nació el 10 de diciembre de 1815 en Londres, Inglaterra. Es reconocida mundialmente como la primera programadora de la historia, un título que obtuvo más de un siglo antes de que existieran las computadoras modernas.
+
+Ada era hija del famoso poeta Lord Byron y de Anne Isabella Milbanke. Su madre, temiendo que Ada heredara la inestabilidad emocional de su padre, se aseguró de que recibiera una educación rigurosa en matemáticas y ciencias, disciplinas consideradas poco comunes para las mujeres de la época victoriana.
+
+Desde pequeña, Ada mostró una mente brillante y una curiosidad insaciable. A los doce años diseñó un prototipo de máquina voladora, estudiando la anatomía de los pájaros y los materiales disponibles. Este espíritu inventivo la acompañaría toda su vida.
+
+A los diecisiete años conoció al matemático Charles Babbage, inventor de la Máquina Diferencial y la Máquina Analítica. Esta reunión cambiaría el curso de la historia de la computación. Ada quedó fascinada con los diseños de Babbage y comenzó una colaboración que duraría años.
+
+En 1842, el ingeniero italiano Luigi Menabrea publicó un artículo sobre la Máquina Analítica de Babbage. Ada fue encargada de traducirlo al inglés, pero no se limitó a eso: añadió sus propias notas, que resultaron ser tres veces más largas que el artículo original. En estas notas, Ada describió cómo la máquina podría ser programada para calcular los números de Bernoulli, lo que se considera el primer algoritmo escrito para ser procesado por una máquina.
+
+Ada también fue la primera en reconocer que la Máquina Analítica tenía potencial más allá del simple cálculo numérico. Visionó que podría ser usada para componer música, manejar letras y símbolos, y resolver problemas de cualquier complejidad, siempre que se le proporcionaran las instrucciones correctas. Esta visión la adelantó más de cien años a su tiempo.
+
+A pesar de sus logros extraordinarios, Ada enfrentó enormes obstáculos. Vivía en una sociedad que limitaba severamente las oportunidades para las mujeres en ciencia y matemáticas. Su trabajo fue en gran parte ignorado durante su vida y solo fue reconocido plenamente en el siglo XX.
+
+Ada Lovelace murió el 27 de noviembre de 1852, a los 36 años, víctima de un cáncer uterino. Dejó un legado que trasciende el tiempo: demostró que las mujeres no solo podían entender las matemáticas más abstractas, sino también imaginar aplicaciones que ningún hombre de su época había concebido.
+
+En su honor, el lenguaje de programación Ada fue desarrollado en la década de 1980 por encargo del Departamento de Defensa de los Estados Unidos. Cada año, el segundo martes de octubre se celebra el Día de Ada Lovelace, dedicado a las mujeres en ciencia, tecnología, ingeniería y matemáticas.
+
+Su historia es un poderoso recordatorio de que el género nunca ha sido un límite para la inteligencia, la creatividad o la capacidad de cambiar el mundo.

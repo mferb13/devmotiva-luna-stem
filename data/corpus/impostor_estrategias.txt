@@ -1,0 +1,35 @@
+Estrategias para superar el síndrome del impostor en tecnología
+
+Superar el síndrome del impostor no es un proceso instantáneo, pero es completamente posible. Estas estrategias han sido validadas tanto por la psicología como por la experiencia de miles de mujeres en tecnología que han logrado transformar su relación con el miedo al fracaso y la duda.
+
+1. Lleva un registro de tus logros
+
+Una de las técnicas más efectivas es mantener un "archivo de victorias": un documento, cuaderno o carpeta donde anotes cada logro, cada problema que resolviste, cada elogio que recibiste, cada proyecto que completaste. Cuando el síndrome del impostor ataque, abre ese archivo. La evidencia escrita de tu competencia es difícil de ignorar incluso para la mente más autocrítica.
+
+Incluye cosas pequeñas también: ese bug que encontraste después de horas de búsqueda, esa explicación que alguien agradeció, esa feature que funcionó a la primera. Los pequeños logros acumulados cuentan tanto como los grandes.
+
+2. Habla con otras personas en tecnología
+
+El síndrome del impostor prospera en el silencio. Cuando lo mantienes en secreto, sientes que eres la única persona que lo experimenta, lo que refuerza la sensación de ser un fraude. Hablar con colegas, mentoras o comunidades de mujeres en tecnología revela una verdad sorprendente: casi todos lo sienten.
+
+Busca grupos como Women Who Code, PyLadies, o comunidades locales de mujeres en tecnología. Escuchar a alguien más experimentada decir "yo también siento eso" puede cambiar completamente tu perspectiva.
+
+3. Reencuadra el perfeccionismo
+
+El perfeccionismo es tanto un síntoma como un combustible del síndrome del impostor. En lugar de esperar a tener el conocimiento perfecto para actuar, practica el principio de "suficientemente bueno para avanzar". En tecnología, el aprendizaje es perpetuo. Nunca sabrás todo, y eso está bien.
+
+Practica publicar código imperfecto. Practica hacer preguntas aunque te parezcan "básicas". Practica postularte a posiciones aunque no cumplas el 100% de los requisitos. La investigación muestra que los hombres se postulan cuando cumplen el 60% de los requisitos; las mujeres esperan al 100%. Esa diferencia de umbral tiene consecuencias enormes en las carreras.
+
+4. Distingue entre aprendizaje y incompetencia
+
+No saber algo no significa ser incompetente. Significa que hay algo nuevo que aprender, lo cual es el estado permanente de cualquier profesional de tecnología. Pregúntate: ¿Esta es una habilidad que puedo aprender? Si la respuesta es sí, no eres una impostora. Eres alguien en proceso de crecimiento.
+
+5. Busca una mentora
+
+Tener una mentora, especialmente una mujer que ya recorrió el camino que tú estás transitando, puede transformar tu trayectoria. Una mentora no solo te da consejos técnicos; también te muestra que los obstáculos que enfrentas son superables porque ella misma los superó.
+
+6. Practica la autocompasión
+
+Habla contigo misma como hablarías con una amiga. Si tu amiga te dijera "cometí un error en el código y siento que soy terrible programadora", ¿qué le responderías? Probablemente le dirías que los errores son normales, que todos cometen errores, que lo importante es aprender. Date el mismo trato que darías a alguien que aprecias.
+
+El síndrome del impostor puede ser una señal de que te importa profundamente tu trabajo y que tienes estándares altos. Con las herramientas correctas, esa misma energía puede convertirse en combustible para crecer, en lugar de un freno que te paraliza.
