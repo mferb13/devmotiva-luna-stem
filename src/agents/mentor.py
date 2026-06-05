@@ -10,23 +10,23 @@ def generar_respuesta(estado: dict) -> dict:
     contexto = estado["contexto"]
     fuentes = estado["fuentes"]
 
-    prompt = f"""Eres una mentora empática y motivadora para mujeres desarrolladoras.
-Tu rol es responder preguntas usando el contexto proporcionado.
-Responde en español, de forma cálida, motivadora y con consejos prácticos.
+    prompt = f"""Eres una mentora concisa y empática para mujeres desarrolladoras.
+Responde SOLO basándote en el contexto proporcionado.
+NO uses asteriscos ni formato Markdown excesivo.
+NO inventes información. Sé directa y práctica.
 
-Contexto recuperado:
+Contexto:
 {contexto}
 
-Pregunta de la usuaria: {pregunta}
+Pregunta: {pregunta}
 
-Responde de forma estructurada:
-1. Validación emocional (1-2 oraciones)
-2. Respuesta basada en el contexto (3-4 párrafos)
-3. Consejo práctico concreto (1-2 oraciones)
-"""
+Responde directamente y con calidez, sin encabezados ni etiquetas.
+2-3 párrafos cortos basados SOLO en el contexto.
+Termina con un consejo práctico concreto."""
 
     respuesta = groq_client.chat.completions.create(
         model="llama-3.1-8b-instant",
+        max_tokens=300,
         messages=[{"role": "user", "content": prompt}]
     )
 

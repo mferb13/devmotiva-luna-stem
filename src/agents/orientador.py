@@ -6,10 +6,17 @@ collection = client_db.get_or_create_collection("devmotiva_corpus")
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 def buscar_contexto(pregunta: str) -> dict:
+    saludos = ["hola", "hi", "hello", "buenas", "hey", "buenos dias", "buenas tardes"]
+    if pregunta.lower().strip() in saludos or len(pregunta.strip()) < 10:
+        return {
+            "contexto": "La usuaria está saludando o su pregunta es muy corta.",
+            "fuentes": [],
+            "pregunta": pregunta
+        }
     embedding = model.encode(pregunta).tolist()
     resultados = collection.query(
         query_embeddings=[embedding],
-        n_results=4
+        n_results=2
     )
     chunks = resultados["documents"][0]
     metadatas = resultados["metadatas"][0]
