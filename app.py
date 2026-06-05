@@ -15,7 +15,6 @@ st.set_page_config(
 st.markdown("""
 <style>
     .main { background-color: #0f0f1a; }
-    .stTextInput input { border-radius: 20px; }
     .stButton button {
         background: linear-gradient(135deg, #6B46C1, #EC4899);
         color: white;
@@ -24,29 +23,27 @@ st.markdown("""
         padding: 0.5rem 2rem;
         font-weight: bold;
     }
-    .chat-message {
-        padding: 1rem;
-        border-radius: 12px;
-        margin: 0.5rem 0;
+    /* Fija el chat input al fondo */
+    .stChatInput {
+        position: fixed;
+        bottom: 1rem;
+        width: 60%;
+        z-index: 999;
     }
-    .user-message {
-        background: #1e1e3a;
-        border-left: 4px solid #6B46C1;
-    }
-    .bot-message {
-        background: #1a1a2e;
-        border-left: 4px solid #EC4899;
+    /* Espacio para que el historial no quede tapado por el input */
+    .chat-container {
+        padding-bottom: 80px;
     }
 </style>
 """, unsafe_allow_html=True)
 
 st.markdown("# 🚀 DevMotiva + Luna STEM")
 st.markdown("*Tu mentora de IA para mujeres desarrolladoras*")
+st.markdown('<a href="http://localhost:8080" target="_blank"><button style="background: linear-gradient(135deg, #6B46C1, #EC4899); color: white; border-radius: 20px; border: none; padding: 0.5rem 2rem; font-weight: bold; cursor: pointer;">← Volver a DevMotiva</button></a>', unsafe_allow_html=True)
 st.divider()
 
 tab1, tab2 = st.tabs(["💬 Chat con la IA", "📄 Genera tu Roadmap PDF"])
 
-# TAB 1 - CHAT
 with tab1:
     st.markdown("### Habla con tu mentora")
     st.markdown("Pregúntame sobre programación, síndrome del impostor, rutas de aprendizaje o motivación.")
@@ -54,20 +51,30 @@ with tab1:
     if "historial" not in st.session_state:
         st.session_state.historial = []
 
+    # Contenedor del historial con clase para padding
+    st.markdown('<div class="chat-container">', unsafe_allow_html=True)
     for mensaje in st.session_state.historial:
         if mensaje["rol"] == "usuario":
-            st.markdown(f'<div class="chat-message user-message">👩‍💻 <b>Tú:</b> {mensaje["texto"]}</div>', unsafe_allow_html=True)
+            with st.chat_message("user"):
+                st.markdown(mensaje["texto"])
         else:
-            st.markdown(f'<div class="chat-message bot-message">🤖 <b>Mentora:</b> {mensaje["texto"]}</div>', unsafe_allow_html=True)
-            if mensaje.get("recursos"):
-                with st.expander("📚 Recursos recomendados"):
-                    st.markdown(mensaje["recursos"])
-            if mensaje.get("fuentes"):
-                st.caption(f"Fuentes: {', '.join(mensaje['fuentes'])}")
+            with st.chat_message("assistant"):
+                st.markdown(mensaje["texto"])
+                if mensaje.get("recursos"):
+                    with st.expander("📚 Recursos recomendados"):
+                        st.markdown(mensaje["recursos"])
+                if mensaje.get("fuentes"):
+                    st.caption(f"Fuentes: {', '.join(mensaje['fuentes'])}")
+    st.markdown('</div>', unsafe_allow_html=True)
 
-    pregunta = st.text_input("Escribe tu pregunta...", placeholder="Ej: ¿Cómo supero el síndrome del impostor?")
+    if st.button("Limpiar chat 🗑️"):
+        st.session_state.historial = []
+        st.rerun()
 
-    if st.button("Enviar 💬") and pregunta:
+    # Input fijo al fondo
+    pregunta = st.chat_input("Escribe tu pregunta y presiona Enter...")
+
+    if pregunta:
         st.session_state.historial.append({"rol": "usuario", "texto": pregunta})
         with st.spinner("Tu mentora está pensando..."):
             try:
@@ -83,14 +90,14 @@ with tab1:
                     "fuentes": data.get("fuentes", [])
                 })
             except Exception as e:
-                st.error(f"Error conectando con la API: {e}")
+                st.session_state.historial.append({
+                    "rol": "mentora",
+                    "texto": f"Error conectando con la API: {e}",
+                    "recursos": "",
+                    "fuentes": []
+                })
         st.rerun()
 
-    if st.button("Limpiar chat 🗑️"):
-        st.session_state.historial = []
-        st.rerun()
-
-# TAB 2 - ROADMAP PDF
 with tab2:
     st.markdown("### Genera tu roadmap personalizado")
     st.markdown("Cuéntame sobre ti y te creo un plan de aprendizaje de 4 semanas.")

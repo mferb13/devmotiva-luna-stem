@@ -10,6 +10,7 @@ class EstadoAgente(TypedDict):
     fuentes: list
     respuesta: str
     recursos: str
+    es_saludo: bool
 
 def nodo_orientador(estado: EstadoAgente) -> EstadoAgente:
     resultado = buscar_contexto(estado["pregunta"])
@@ -42,7 +43,8 @@ def procesar_pregunta(pregunta: str) -> dict:
         "contexto": "",
         "fuentes": [],
         "respuesta": "",
-        "recursos": ""
+        "recursos": "",
+        "es_saludo": False
     }
     resultado = agente.invoke(estado_inicial)
     return resultado
