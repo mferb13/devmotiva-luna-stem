@@ -14,6 +14,8 @@ groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 # MCP (Model Context Protocol) permite exponer herramientas externas
 # para que los agentes las puedan usar desde la API
 # Cada herramienta tiene nombre, descripción y parámetros que recibe
+
+#---------------
 MCP_TOOLS = [
     {
         "name": "crear_meta",
